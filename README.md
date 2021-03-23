@@ -1,0 +1,2 @@
+# Image_Segmentation_FCN8_VGG16_CamVid
+This repository illustrates how to build a Fully Convolutional Neural Network for semantic image segmentation.  We will train the model on a custom dataset prepared by divamgupta. This contains video frames from a moving vehicle and is a subsample of the CamVid dataset.  We will be using a pretrained VGG-16 network for the feature extraction path, then followed by an FCN-8 network for upsampling and generating the predictions. The output will be a label map (i.e. segmentation mask) with predictions for 12 classes. 
