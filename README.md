@@ -18,16 +18,27 @@ After 30 epochs the results are as the following:
 The IoU for each class:
 
 sky            0.8523710373675862 
+
 building       0.4478193732096381 
+
 column/pole    9.144156908767303e-05 
+
 road           0.7111443882761425 
+
 side walk      0.0015516153206296484 
+
 vegetation     0.009442092266299934 
+
 traffic light  2.990072956886116e-10 
+
 fence          1.0303223877690097e-10 
+
 vehicle        0.005194000655137685 
-pedestrian     3.950890915431674e-05 
+
+pedestrian     3.950890915431674e-05
+
 byciclist      1.4382074180670196e-10 
+
 void           0.0006814312320996181 
 
 
